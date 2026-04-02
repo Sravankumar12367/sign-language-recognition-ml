@@ -1,0 +1,18 @@
+0 Hello
+1 I love you
+2 No
+3 Okay
+4 Please
+5 Thank you
+6 Yes
+7 Eat
+8 Drink
+9 Hungry
+10 All done
+11 More
+12 Help
+13 stop
+14 Hurt
+15 play
+16 Sorry
+17 Bathroom
