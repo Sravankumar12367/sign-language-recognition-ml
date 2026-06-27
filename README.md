@@ -1,4 +1,4 @@
-# 🤟 Sign Language Recognition using Machine Learning
+# 🤟 Real-Time Sign Language Recognition System
 
 A real-time hand gesture recognition system developed as a college group project. This application detects sign language gestures using a webcam and translates them into readable text using computer vision and machine learning.
 
